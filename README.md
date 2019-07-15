@@ -12,6 +12,10 @@
 - `src/free_list_manager.c` contains the implementation of free list manager
 - `src/main.c` contains the menu-driven sample driver application
 
+### Build
+To build project,
+- `cd` into the root of this project and run provided script with `./build.sh`
+
 ### Example run
 ```bash
 Hasans-MacBook-Pro:Free-List-Manager hasankamal$ ./build.sh 
